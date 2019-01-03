@@ -18,7 +18,7 @@ EXAMPLE
 ![Screenshot 1](img/img1.png)
 MIPS Version running through QTspim
 
-HOW TO ASSEMBLE IT
+HOW TO ASSEMBLE
 --------------------------------------------------
 The following instructions are for the MIPS version 
 ```bash
