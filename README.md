@@ -18,7 +18,7 @@ EXAMPLE
 ![Screenshot 1](img/img1.png)
 MIPS Version running through QTspim
 
-HOW TO ASSEMBLE AND RUN
+HOW TO ASSEMBLE IT
 --------------------------------------------------
 The following instructions are for the MIPS version 
 ```bash
@@ -29,5 +29,5 @@ The following instructions are for the MIPS version
 
 MORE INFO
 --------------------------------------------------
-* Please check the file `project specification` to know more about this project.
+* Please check the file `project specification.pdf` to know more about this project.
 * This code has been based on the C language mergesort algorithm which is in the file `merge_sort.c.zip`
