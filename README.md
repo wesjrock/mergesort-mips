@@ -7,7 +7,7 @@ The purpose of this project was to implement a Mergesort algorithm in Assembly M
 PROJECT
 --------------------------------------------------
 Given an unsorted array of maximum size 16, sort it through mergesort algorithm.
-If the array has size between 1 and 4, sort it through bubble sort algorithm.
+If the array size is between 1 and 4, sort it through bubble sort algorithm.
 
 The code has to be implemented in two kinds of assembly, therefore there will be two files:
 * Assembly MIPS
