@@ -1,4 +1,4 @@
-# Mergesort-mips
+# Mergesort-MIPS
 
 OVERVIEW
 --------------------------------------------------
