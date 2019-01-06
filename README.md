@@ -27,6 +27,13 @@ The following instructions are for the MIPS version
 	3. Press the play button to run the program
 ```
 
+CREDITS
+--------------------------------------------------
+- Andreas Munte Foerster
+- Gabriel Rodrigues do Prado Rossales
+- Weslei Renato de Lima
+- Wesley Tiozzo
+
 MORE INFO
 --------------------------------------------------
 * Please check the file `project specification.pdf` to know more about this project.
